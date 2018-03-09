@@ -1,1 +1,2 @@
-# Lab5Youmans
+# JSPlatformer
+JS Platformer for DIG 3480C
